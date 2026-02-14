@@ -39,4 +39,4 @@ It also handles **Homebrew**, **all dependencies**, **directory setup**, **envir
 ## 🚀 Installation (One Command)
 
 ```bash
-chmod +x install_sony_emulators.sh && ./install_sony_emulators.sh
+chmod +x install.sh && ./install.sh
